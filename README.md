@@ -2,11 +2,26 @@
 
 2025 web programlama dersi/ödevi kapsamında hazırlanmış proje reposu.
 
-## Öne Çıkanlar
+## Bu Repo Ne İçin Var?
+Web programlama dersi/ödevi kapsamında geliştirilen çalışmaları düzenli tutmak için oluşturuldu.
+
+Bu README'nin amacı; repoya ilk kez gelen birinin projenin neden açıldığını, içinde ne bulunduğunu ve nereden başlaması gerektiğini hızlıca anlamasını sağlamaktır.
+
+## İçerik ve Kapsam
+Bu repoda öne çıkan içerikler şunlardır:
 - Ders/ödev teslimi odaklı yapı
 - HTML/CSS/JS çalışmalarına uygun depo
 - Geliştirme notları için README ile düzenlenmiş başlangıç
-- Kullanılan ana teknolojiler: HTML, .NET, C#, CSS
+- .NET solution/proje dosyaları ve katmanlı uygulama yapısı
+
+## Kimler İçin Faydalı?
+Frontend/web geliştirme pratiği yapmak, arayüz yapısını incelemek veya projeyi kişiselleştirmek isteyenler için uygundur.
+
+## Kullanılan Teknolojiler
+- HTML
+- .NET
+- C#
+- CSS
 
 ## Önemli Dosyalar
 - `SporSalonu/OZ_SporSalonu/OZ_SporSalonu.csproj`
